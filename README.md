@@ -27,8 +27,6 @@ PeopleData/
 | `kategori` | `String` | `JComboBox` | Mahasiswa / Dosen / Tenaga Kependidikan / Alumni |
 | **`jumlahKucing`** *(atribut baru)* | `int` | **`JSpinner`** | Jumlah kucing peliharaan, rentang 0 – 99 (`SpinnerNumberModel`) |
 
-> Atribut baru **Jumlah Kucing** memakai `JSpinner` (bukan `JTextField`), sehingga memenuhi **BONUS (+20)**.
-
 ### Komponen Form
 
 - `titleLabel` – judul "Data Orang"
@@ -56,11 +54,29 @@ PeopleData/
 
 ## Dokumentasi Program Dijalankan
 
-| Operasi | Dokumentasi |
-|---|---|
-| Tampilan awal | ![Tampilan awal](Dokumentasi/01-tampilan-awal.png) |
-| **Create** – menambah data | ![Create](Dokumentasi/02-create.png) |
-| **Read** – klik baris, data masuk ke form | ![Read](Dokumentasi/03-read.png) |
-| **Update** – mengubah data | ![Update](Dokumentasi/04-update.png) |
-| **Delete** – dialog konfirmasi & hasil hapus | ![Delete](Dokumentasi/05-delete.png) |
-| Validasi error | ![Validasi](Dokumentasi/06-validasi.png) |
+Tampilan Awal
+<img width="1917" height="1077" alt="tampilan awal" src="https://github.com/user-attachments/assets/05e42d79-008e-492a-bdac-9ee513403eed" />
+
+Create
+<img width="1917" height="1077" alt="create" src="https://github.com/user-attachments/assets/1bde7391-f4a6-473b-97e9-90e5f873e438" />
+
+Read
+<img width="1917" height="1077" alt="read" src="https://github.com/user-attachments/assets/1abb9af9-b66d-4000-8c92-75ef1ebdc4dd" />
+
+Update
+<img width="1917" height="1077" alt="update" src="https://github.com/user-attachments/assets/b52de9fb-bc0f-4e72-9230-ced0d64fde2a" />
+
+Konfirmasi Delete
+<img width="1917" height="1077" alt="konfirm delete" src="https://github.com/user-attachments/assets/c9ba357d-cf35-4b3f-a20a-a4fa1f03a871" />
+
+Delete
+<img width="1917" height="1077" alt="delete" src="https://github.com/user-attachments/assets/05451196-ccb8-40ad-83b8-f4b1805171c0" />
+
+Contoh Error
+<img width="1917" height="1077" alt="contoh error" src="https://github.com/user-attachments/assets/570ff3e8-3092-460d-bb0b-2a934ca1ab14" />
+
+
+
+
+
+
