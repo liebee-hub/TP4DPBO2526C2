@@ -1,5 +1,11 @@
 # TP4 DPBO – PeopleData (Java Swing GUI)
 
+## Janji
+
+Saya Refan Maher Aysel dengan NIM 2509129 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+## Isi program
+
 Aplikasi desktop CRUD sederhana berbasis **Java Swing** (IntelliJ GUI Designer) untuk mengelola data orang di lingkungan kampus.
 
 ## Struktur Folder
