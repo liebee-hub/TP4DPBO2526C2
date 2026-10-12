@@ -1,7 +1,6 @@
 # TP4 DPBO – PeopleData (Java Swing GUI)
 
 Aplikasi desktop CRUD sederhana berbasis **Java Swing** (IntelliJ GUI Designer) untuk mengelola data orang di lingkungan kampus.
-Struktur kodenya mengikuti latihan `ProductData`, dengan tema **People**.
 
 ## Struktur Folder
 
