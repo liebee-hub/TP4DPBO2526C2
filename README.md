@@ -11,7 +11,7 @@ PeopleData/
 │   ├── Person.java        # model data
 │   ├── PeopleMenu.java    # logika GUI + CRUD
 │   └── PeopleMenu.form    # desain tampilan (GUI Designer)
-├── Dokumentasi/           # screenshot / gif / video untuk README
+├── Dokumentasi/           # screenshot 
 └── README.md
 ```
 
@@ -54,16 +54,7 @@ PeopleData/
 5. **Delete** – Klik **Delete** → muncul dialog konfirmasi. Jika **Yes** → `deleteData()`: `listPerson.remove(selectedIndex)` → refresh tabel → `clearForm()`. Jika **No** → tidak ada perubahan.
 6. **Cancel** – `clearForm()`: kosongkan semua input, kembalikan tombol ke **Add**, sembunyikan **Delete**, `selectedIndex = -1`.
 
-## Cara Menjalankan
-
-1. Buka IntelliJ IDEA, buat project Java baru bernama `PeopleData` (uncheck *Add sample code*).
-2. Pastikan plugin **Swing UI Designer** sudah terpasang.
-3. Salin `Person.java`, `PeopleMenu.java`, dan `PeopleMenu.form` ke folder `src`.
-4. Jalankan `PeopleMenu.java`.
-
 ## Dokumentasi Program Dijalankan
-
-> Letakkan file gambar/gif/video di folder `Dokumentasi/` lalu sesuaikan nama file di bawah ini.
 
 | Operasi | Dokumentasi |
 |---|---|
@@ -73,5 +64,3 @@ PeopleData/
 | **Update** – mengubah data | ![Update](Dokumentasi/04-update.png) |
 | **Delete** – dialog konfirmasi & hasil hapus | ![Delete](Dokumentasi/05-delete.png) |
 | Validasi error | ![Validasi](Dokumentasi/06-validasi.png) |
-
-Screen record lengkap semua operasi CRUD: `Dokumentasi/demo.gif`
